@@ -2,4 +2,4 @@
 
 Um site para um teste avaliativo da SmartFit EEEP: Dep. Roberto Mesquita
 
- <img src="Image/foto-site-samrt.PNG" width="200" />
+ <img src="Image/foto-site-samrt.PNG">
